@@ -1,0 +1,15 @@
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/obj/Debug/net7.0/Supermarket İnventar.csproj.AssemblyReference.cache
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/obj/Debug/net7.0/Supermarket İnventar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/obj/Debug/net7.0/Supermarket İnventar.AssemblyInfoInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/obj/Debug/net7.0/Supermarket İnventar.AssemblyInfo.cs
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/obj/Debug/net7.0/Supermarket İnventar.csproj.CoreCompileInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/bin/Debug/net7.0/Supermarket İnventar
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/bin/Debug/net7.0/Supermarket İnventar.deps.json
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/bin/Debug/net7.0/Supermarket İnventar.runtimeconfig.json
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/bin/Debug/net7.0/Supermarket İnventar.dll
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/bin/Debug/net7.0/Supermarket İnventar.pdb
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/obj/Debug/net7.0/Supermarket İnventar.dll
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/obj/Debug/net7.0/refint/Supermarket İnventar.dll
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/obj/Debug/net7.0/Supermarket İnventar.pdb
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/obj/Debug/net7.0/Supermarket İnventar.genruntimeconfig.cache
+/Users/zairovv/Desktop/IT brains tasks/Supermarket İnventar/Supermarket İnventar/obj/Debug/net7.0/ref/Supermarket İnventar.dll
